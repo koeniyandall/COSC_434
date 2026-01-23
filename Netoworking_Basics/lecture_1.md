@@ -1,6 +1,6 @@
 # 1-23-26
 
-Billions of connected computing devices
+- Billions of connected computing devices
     - hosts = end systems
     - running network apps at Internet's edge
 
@@ -20,7 +20,7 @@ Billions of connected computing devices
 
 ## A Structure View
 
-Different ISPs talk to each other via IXPs
+- Different ISPs talk to each other via IXPs
     - IXP: Internet exchange point
     - Peering Link: Direct ISP to ISP connection
         - No money changes hands, only traffic
