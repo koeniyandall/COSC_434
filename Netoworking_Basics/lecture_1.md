@@ -7,8 +7,8 @@
 
 ### Patcket Switches
     - forward packets (chunks of data)
-    - routers (layer 3: IP)
-    - swtiches (layer 2: MAC)
+        - routers (layer 3: IP)
+        - swtiches (layer 2: MAC)
 
 ### Communication Links
     - fiber, copper, radio, satellite
