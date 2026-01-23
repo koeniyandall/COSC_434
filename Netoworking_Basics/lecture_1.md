@@ -24,9 +24,9 @@
     - IXP: Internet exchange point
     - Peering Link: Direct ISP to ISP connection
         - No money changes hands, only traffic
-    -CDNs: Content delivery network
-        -Why? CDNs are global netoworks that are meant to increase download/content speeds
-        -Private CDN: doesn't host others traffic
+    - CDNs: Content delivery network
+        - Why? CDNs are global netoworks that are meant to increase download/content speeds
+        - Private CDN: doesn't host others traffic
 
 
 
