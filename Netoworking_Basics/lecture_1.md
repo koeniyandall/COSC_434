@@ -29,5 +29,10 @@
         - Why? CDNs are global netoworks that are meant to increase download/content speeds
         - Private CDN: doesn't host others traffic
 
+## Delivery Services
+
+- Internet is a packet switching network
+    - 
+
 
 
