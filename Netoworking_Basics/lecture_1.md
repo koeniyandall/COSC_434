@@ -5,17 +5,18 @@
     - running network apps at Internet's edge
 
 
-### Patcket Switches
-    - forward packets (chunks of data)
-        - routers (layer 3: IP)
-        - swtiches (layer 2: MAC)
+## Patcket Switches
 
-### Communication Links
-    - fiber, copper, radio, satellite
-    - transmission rate = bandwidth
+- forward packets (chunks of data)
+    - routers (layer 3: IP)
+    - swtiches (layer 2: MAC)
 
-### Networks
-    - collection of devices, routers, links: managed by an organization
+## Communication Links
+- fiber, copper, radio, satellite
+- transmission rate = bandwidth
+
+## Networks
+- collection of devices, routers, links: managed by an organization
 
 
 ## A Structure View
