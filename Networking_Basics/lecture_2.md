@@ -45,3 +45,7 @@
         - TCP,UDP
     5. Application
         - HTTP,IMAP,SMTP,DNS
+
+## Question
+    - What kind of devices do not have an IP address?
+        - Thoughts: things like printers, keyboards, mouses
